@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "589575227",
+    "firebase_url": "https://studentapp-225b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "studentapp-225b4",
+    "storage_bucket": "studentapp-225b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589575227:android:181db2c65b29fc52bb581e",
+        "android_client_info": {
+          "package_name": "com.example.ass1reclogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyn0zaovqmOD7eBFcdQoqp_FWXMzyopVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
